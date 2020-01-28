@@ -10,4 +10,4 @@ Interval Identification will select a random root and ask for a random interval 
 
 
 ## To Do
-- Accept sharp spellings when appropriate for interval identification (IE, Major Seventh of D should be C#)
+- Accept sharp spellings when appropriate for interval identification (IE, Major Seventh of D should be C# not Db)
